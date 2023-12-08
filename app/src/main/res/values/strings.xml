@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalenderApp</string>
+    //web client id
+    <string name="web_client_id">871321158550-gker19ehu57tk7t7l0c6co6cpfmobojh.apps.googleusercontent.com</string>
+</resources>
